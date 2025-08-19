@@ -24,7 +24,8 @@ To reduce CAC and reach the target of **150**, the company should:
 2. **Leverage data-driven targeting** – improve segmentation and reduce wasted ad spend.  
 3. **Enhance referral and retention programs** – lower CAC by relying more on existing customer networks.  
 
+
+
 ## Visualization
 The following chart shows the quarterly CAC trend compared to the industry target:  
-
 ![CAC Trend](cac_trend.png)
